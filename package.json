@@ -1,0 +1,23 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "Criando a primeira AP",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NanaEslana/APi.git"
+  },
+  "author": "Eslana Regina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NanaEslana/APi/issues"
+  },
+  "homepage": "https://github.com/NanaEslana/APi#readme",
+  "dependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
