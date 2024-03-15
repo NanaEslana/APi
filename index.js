@@ -1,1 +1,1 @@
-console.log("db.json");
+console.log("Servidor rodando na porta http:/localhost:3000");
